@@ -1,0 +1,600 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\gym\\includes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\gym\\includes\\staff\\staff_page.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:staff\\staff_page.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\gym\\includes\\admin\\managetrainers.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:admin\\managetrainers.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\gym\\includes\\admin\\dashboard.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:admin\\dashboard.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\gym\\includes\\staff\\Staffq.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:staff\\Staffq.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\gym\\includes\\staff\\Respond.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:staff\\Respond.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\gym\\index.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\gym\\includes\\admin\\uploads\\1746615916_PXL_20220313_234347577.NIGHT.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:admin\\uploads\\1746615916_PXL_20220313_234347577.NIGHT.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\gym\\includes\\login.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:login.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\gym\\includes\\logout.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:logout.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\gym\\includes\\admin\\manage_user.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:admin\\manage_user.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\gym\\includes\\admin\\Add_new_class.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:admin\\Add_new_class.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\gym\\includes\\admin\\addtrainer.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:admin\\addtrainer.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\gym\\includes\\register.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:register.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\gym\\includes\\dbconnect.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dbconnect.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\gym\\includes\\Users\\userpage.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Users\\userpage.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\gym\\includes\\submit_query.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:submit_query.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\gym\\includes\\update_appointment.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:update_appointment.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\gym\\includes\\yoga.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:yoga.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\gym\\includes\\appointment.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appointment.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\gym\\includes\\admin\\process_add_class.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:admin\\process_add_class.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\gym\\includes\\admin_staff_login.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:admin_staff_login.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\gym\\includes\\viewappointment.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:viewappointment.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\gym\\includes\\Users\\membership.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Users\\membership.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\gym\\includes\\Users\\dbconnect.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Users\\dbconnect.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\gym\\includes\\Blog\\blog_page.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Blog\\blog_page.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\gym\\includes\\admin\\view_classes.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:admin\\view_classes.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\gym\\includes\\about_us.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:about_us.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\gym\\includes\\admin\\manage_memberships.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:admin\\manage_memberships.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\gym\\includes\\Users\\NewFile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Users\\NewFile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\gym\\includes\\admin\\updatetrainer.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:admin\\updatetrainer.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\gym\\includes\\Users\\UserQueries.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Users\\UserQueries.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\gym\\includes\\cancel_membership.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cancel_membership.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\gym\\includes\\join_class.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:join_class.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\gym\\includes\\UserQueries.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserQueries.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\gym\\includes\\Users.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Users.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\gym\\includes\\staff\\dbconnect.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:staff\\dbconnect.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "membership.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\gym\\includes\\Users\\membership.php",
+              "RelativeDocumentMoniker": "Users\\membership.php",
+              "ToolTip": "C:\\xampp\\htdocs\\gym\\includes\\Users\\membership.php",
+              "RelativeToolTip": "Users\\membership.php",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAAAHAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-04-14T08:12:56.901Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "login.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\gym\\includes\\login.php",
+              "RelativeDocumentMoniker": "login.php",
+              "ToolTip": "C:\\xampp\\htdocs\\gym\\includes\\login.php",
+              "RelativeToolTip": "login.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-04-10T06:02:30.228Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "1746615916_PXL_20220313_234347577.NIGHT.jpg -  [English (United States)] - Bitmap [3000x4000, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\gym\\includes\\admin\\uploads\\1746615916_PXL_20220313_234347577.NIGHT.jpg",
+              "RelativeDocumentMoniker": "admin\\uploads\\1746615916_PXL_20220313_234347577.NIGHT.jpg",
+              "ToolTip": "C:\\xampp\\htdocs\\gym\\includes\\admin\\uploads\\1746615916_PXL_20220313_234347577.NIGHT.jpg -  [English (United States)] - Bitmap [3000x4000, 24 bit, JPG]",
+              "RelativeToolTip": "admin\\uploads\\1746615916_PXL_20220313_234347577.NIGHT.jpg -  [English (United States)] - Bitmap [3000x4000, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-05-08T15:18:50.209Z",
+              "EditorCaption": " -  [English (United States)] - Bitmap [3000x4000, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dashboard.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\gym\\includes\\admin\\dashboard.php",
+              "RelativeDocumentMoniker": "admin\\dashboard.php",
+              "ToolTip": "C:\\xampp\\htdocs\\gym\\includes\\admin\\dashboard.php",
+              "RelativeToolTip": "admin\\dashboard.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-04-12T06:44:42.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "staff_page.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\gym\\includes\\staff\\staff_page.php",
+              "RelativeDocumentMoniker": "staff\\staff_page.php",
+              "ToolTip": "C:\\xampp\\htdocs\\gym\\includes\\staff\\staff_page.php",
+              "RelativeToolTip": "staff\\staff_page.php",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAIIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-04-11T06:54:52.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "managetrainers.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\gym\\includes\\admin\\managetrainers.php",
+              "RelativeDocumentMoniker": "admin\\managetrainers.php",
+              "ToolTip": "C:\\xampp\\htdocs\\gym\\includes\\admin\\managetrainers.php",
+              "RelativeToolTip": "admin\\managetrainers.php",
+              "ViewState": "AgIAACABAAAAAAAAAAAAAJsBAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-04-11T05:30:00.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "logout.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\gym\\includes\\logout.php",
+              "RelativeDocumentMoniker": "logout.php",
+              "ToolTip": "C:\\xampp\\htdocs\\gym\\includes\\logout.php",
+              "RelativeToolTip": "logout.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-05-08T14:53:45.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "userpage.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\gym\\includes\\Users\\userpage.php",
+              "RelativeDocumentMoniker": "Users\\userpage.php",
+              "ToolTip": "C:\\xampp\\htdocs\\gym\\includes\\Users\\userpage.php",
+              "RelativeToolTip": "Users\\userpage.php",
+              "ViewState": "AgIAAFsCAAAAAAAAAAAAAGkCAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-04-11T07:48:46.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "manage_memberships.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\gym\\includes\\admin\\manage_memberships.php",
+              "RelativeDocumentMoniker": "admin\\manage_memberships.php",
+              "ToolTip": "C:\\xampp\\htdocs\\gym\\includes\\admin\\manage_memberships.php",
+              "RelativeToolTip": "admin\\manage_memberships.php",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAwwIMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-04-14T17:46:27.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\gym\\index.php",
+              "RelativeDocumentMoniker": "..\\index.php",
+              "ToolTip": "C:\\xampp\\htdocs\\gym\\index.php",
+              "RelativeToolTip": "..\\index.php",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-04-10T04:16:45.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Respond.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\gym\\includes\\staff\\Respond.php",
+              "RelativeDocumentMoniker": "staff\\Respond.php",
+              "ToolTip": "C:\\xampp\\htdocs\\gym\\includes\\staff\\Respond.php",
+              "RelativeToolTip": "staff\\Respond.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-04-11T07:37:48.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Staffq.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\gym\\includes\\staff\\Staffq.php",
+              "RelativeDocumentMoniker": "staff\\Staffq.php",
+              "ToolTip": "C:\\xampp\\htdocs\\gym\\includes\\staff\\Staffq.php",
+              "RelativeToolTip": "staff\\Staffq.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-04-11T06:57:31.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "dbconnect.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\gym\\includes\\dbconnect.php",
+              "RelativeDocumentMoniker": "dbconnect.php",
+              "ToolTip": "C:\\xampp\\htdocs\\gym\\includes\\dbconnect.php",
+              "RelativeToolTip": "dbconnect.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-04-11T06:11:59.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "register.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\gym\\includes\\register.php",
+              "RelativeDocumentMoniker": "register.php",
+              "ToolTip": "C:\\xampp\\htdocs\\gym\\includes\\register.php",
+              "RelativeToolTip": "register.php",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAwwHUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-04-10T06:08:01.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "manage_user.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\gym\\includes\\admin\\manage_user.php",
+              "RelativeDocumentMoniker": "admin\\manage_user.php",
+              "ToolTip": "C:\\xampp\\htdocs\\gym\\includes\\admin\\manage_user.php",
+              "RelativeToolTip": "admin\\manage_user.php",
+              "ViewState": "AgIAAEMBAAAAAAAAAAAwwFwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-04-14T17:59:17.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Add_new_class.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\gym\\includes\\admin\\Add_new_class.php",
+              "RelativeDocumentMoniker": "admin\\Add_new_class.php",
+              "ToolTip": "C:\\xampp\\htdocs\\gym\\includes\\admin\\Add_new_class.php",
+              "RelativeToolTip": "admin\\Add_new_class.php",
+              "ViewState": "AgIAAB0BAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-04-12T06:40:27.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "addtrainer.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\gym\\includes\\admin\\addtrainer.php",
+              "RelativeDocumentMoniker": "admin\\addtrainer.php",
+              "ToolTip": "C:\\xampp\\htdocs\\gym\\includes\\admin\\addtrainer.php",
+              "RelativeToolTip": "admin\\addtrainer.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-05-08T14:46:00.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "NewFile",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\gym\\includes\\Users\\NewFile",
+              "RelativeDocumentMoniker": "Users\\NewFile",
+              "ToolTip": "C:\\xampp\\htdocs\\gym\\includes\\Users\\NewFile",
+              "RelativeToolTip": "Users\\NewFile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-14T17:46:08.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "yoga.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\gym\\includes\\yoga.php",
+              "RelativeDocumentMoniker": "yoga.php",
+              "ToolTip": "C:\\xampp\\htdocs\\gym\\includes\\yoga.php",
+              "RelativeToolTip": "yoga.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-04-20T17:07:05.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserQueries.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\gym\\includes\\Users\\UserQueries.php",
+              "RelativeDocumentMoniker": "Users\\UserQueries.php",
+              "ToolTip": "C:\\xampp\\htdocs\\gym\\includes\\Users\\UserQueries.php",
+              "RelativeToolTip": "Users\\UserQueries.php",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-04-11T08:42:33.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "update_appointment.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\gym\\includes\\update_appointment.php",
+              "RelativeDocumentMoniker": "update_appointment.php",
+              "ToolTip": "C:\\xampp\\htdocs\\gym\\includes\\update_appointment.php",
+              "RelativeToolTip": "update_appointment.php",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAOIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-04-14T17:19:16.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "admin_staff_login.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\gym\\includes\\admin_staff_login.php",
+              "RelativeDocumentMoniker": "admin_staff_login.php",
+              "ToolTip": "C:\\xampp\\htdocs\\gym\\includes\\admin_staff_login.php",
+              "RelativeToolTip": "admin_staff_login.php",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-04-11T05:27:30.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "viewappointment.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\gym\\includes\\viewappointment.php",
+              "RelativeDocumentMoniker": "viewappointment.php",
+              "ToolTip": "C:\\xampp\\htdocs\\gym\\includes\\viewappointment.php",
+              "RelativeToolTip": "viewappointment.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-04-11T08:32:55.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appointment.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\gym\\includes\\appointment.php",
+              "RelativeDocumentMoniker": "appointment.php",
+              "ToolTip": "C:\\xampp\\htdocs\\gym\\includes\\appointment.php",
+              "RelativeToolTip": "appointment.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-04-11T08:23:34.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "updatetrainer.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\gym\\includes\\admin\\updatetrainer.php",
+              "RelativeDocumentMoniker": "admin\\updatetrainer.php",
+              "ToolTip": "C:\\xampp\\htdocs\\gym\\includes\\admin\\updatetrainer.php",
+              "RelativeToolTip": "admin\\updatetrainer.php",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAcwLIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-04-12T06:44:33.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "about_us.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\gym\\includes\\about_us.php",
+              "RelativeDocumentMoniker": "about_us.php",
+              "ToolTip": "C:\\xampp\\htdocs\\gym\\includes\\about_us.php",
+              "RelativeToolTip": "about_us.php",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAwwMcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-04-11T18:53:06.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "process_add_class.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\gym\\includes\\admin\\process_add_class.php",
+              "RelativeDocumentMoniker": "admin\\process_add_class.php",
+              "ToolTip": "C:\\xampp\\htdocs\\gym\\includes\\admin\\process_add_class.php",
+              "RelativeToolTip": "admin\\process_add_class.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-04-12T06:40:57.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "view_classes.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\gym\\includes\\admin\\view_classes.php",
+              "RelativeDocumentMoniker": "admin\\view_classes.php",
+              "ToolTip": "C:\\xampp\\htdocs\\gym\\includes\\admin\\view_classes.php",
+              "RelativeToolTip": "admin\\view_classes.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-04-12T06:41:24.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "join_class.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\gym\\includes\\join_class.php",
+              "RelativeDocumentMoniker": "join_class.php",
+              "ToolTip": "C:\\xampp\\htdocs\\gym\\includes\\join_class.php",
+              "RelativeToolTip": "join_class.php",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-04-12T06:42:17.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "cancel_membership.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\gym\\includes\\cancel_membership.php",
+              "RelativeDocumentMoniker": "cancel_membership.php",
+              "ToolTip": "C:\\xampp\\htdocs\\gym\\includes\\cancel_membership.php",
+              "RelativeToolTip": "cancel_membership.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-04-14T07:22:31.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "blog_page.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\gym\\includes\\Blog\\blog_page.php",
+              "RelativeDocumentMoniker": "Blog\\blog_page.php",
+              "ToolTip": "C:\\xampp\\htdocs\\gym\\includes\\Blog\\blog_page.php",
+              "RelativeToolTip": "Blog\\blog_page.php",
+              "ViewState": "AgIAAEQBAAAAAAAAAAAgwB4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-04-12T10:03:42.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "dbconnect.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\gym\\includes\\Users\\dbconnect.php",
+              "RelativeDocumentMoniker": "Users\\dbconnect.php",
+              "ToolTip": "C:\\xampp\\htdocs\\gym\\includes\\Users\\dbconnect.php",
+              "RelativeToolTip": "Users\\dbconnect.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-04-11T07:48:19.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserQueries.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\gym\\includes\\UserQueries.php",
+              "RelativeDocumentMoniker": "UserQueries.php",
+              "ToolTip": "C:\\xampp\\htdocs\\gym\\includes\\UserQueries.php",
+              "RelativeToolTip": "UserQueries.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-04-11T07:33:26.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Users.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\gym\\includes\\Users.php",
+              "RelativeDocumentMoniker": "Users.php",
+              "ToolTip": "C:\\xampp\\htdocs\\gym\\includes\\Users.php",
+              "RelativeToolTip": "Users.php",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAswC4BAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-04-11T07:31:07.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "submit_query.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\gym\\includes\\submit_query.php",
+              "RelativeDocumentMoniker": "submit_query.php",
+              "ToolTip": "C:\\xampp\\htdocs\\gym\\includes\\submit_query.php",
+              "RelativeToolTip": "submit_query.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-04-11T06:50:38.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "dbconnect.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\gym\\includes\\staff\\dbconnect.php",
+              "RelativeDocumentMoniker": "staff\\dbconnect.php",
+              "ToolTip": "C:\\xampp\\htdocs\\gym\\includes\\staff\\dbconnect.php",
+              "RelativeToolTip": "staff\\dbconnect.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-04-11T07:04:12.097Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
